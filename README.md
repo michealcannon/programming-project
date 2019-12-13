@@ -15,4 +15,4 @@ The variables involved are:
 1. Score in a standardised test of attainment.
 2. Records of attendance i.e. days missed in school in a given time frame.
 3. Age of pupil at time of test.
-4. Whether pupil has passed or failed a numeracy screening test.
+4. Class level of pupil.
