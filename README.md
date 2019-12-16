@@ -15,3 +15,5 @@ The variables involved are:
 2. Records of attendance i.e. days missed in school in a given time frame.  
 3. Age of pupil at time of test.  
 4. Class level of pupil.
+
+To run this notebook you must have Jupyter installed on your machine. It is included with an installation of Anaconda. You can clone the GitHub repository to a local drive and run from the command line using the command "Jupyter Notebook".To run, select "restart and run all" from the kernel menu. 
